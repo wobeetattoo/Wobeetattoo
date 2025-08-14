@@ -1,1 +1,6 @@
-module.exports = { plugins: { tailwindcss: {}, autoprefixer: {} } }
+// wobee-landing/postcss.config.js
+module.exports = {
+  plugins: {
+    "@tailwindcss/postcss": {},
+  },
+};
