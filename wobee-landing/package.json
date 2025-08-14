@@ -19,5 +19,6 @@
     "postcss": "latest",
     "tailwindcss": "latest"
     "@tailwindcss/postcss": "latest"
+    
   }
 }
